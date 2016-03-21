@@ -4,4 +4,4 @@ GTFS files and future map for Sweetwater Trolley
 
 # Who
 
-Dan Duffy (Code for Miami)
+Dan Duffy from Quyen Tran's Steetwater Trolley developed for Code for Miami
