@@ -4,4 +4,4 @@ GTFS files and future map for Sweetwater Trolley
 
 # Who
 
-Quyen Tran (Code for Miami)
+Dan Duffy (Code for Miami)
