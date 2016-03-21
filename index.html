@@ -46,7 +46,7 @@
 		var googleHybrid = new L.Google('HYBRID', { maxZoom: 20 });
 		var googleTraffic = new L.GoogleTraffic('ROADMAP', { maxZoom: 20 });
 		map.addLayer(googleRoadmap);
-
+		<button id="view">My View</button>
 		L.control.layers({'Google Map':googleRoadmap, 'Google Satellite':googleHybrid, 'Google Traffic':googleTraffic,'OpenStreetMap':osmLayer},{}).addTo(map);
 
 		var allMarkers = [];
