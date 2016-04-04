@@ -9,8 +9,13 @@ See the Installation wiki page for more details
 Beta (Testing in progress)
 
 # Screenshots
+A snap shot of the Sweetwater Trolley application
+![sweetwatertrolleyscreenshot](https://cloud.githubusercontent.com/assets/8550894/14267215/49cbfc74-fa9c-11e5-8fd6-9aedb651f5ef.jpg)
 
+Photo of the GPS Tracker as installed in the bus
 ![GPS Tracker 1](https://github.com/qtrandev/busTrackingGps/blob/master/images/GPS-Tracker1.jpg)  
+
+A photo showing the various components of the GPS Tracker
 ![GPS Tracker 2](https://github.com/qtrandev/busTrackingGps/blob/master/images/GPS-Tracker2.jpg) 
 
 # Press
