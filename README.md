@@ -30,9 +30,6 @@ We need a cheap open-source solution to track transit buses, and the Sweetwater 
 
 Dan Duffy's fork of Quyen Tran's Steetwater Trolley developed for Code for Miami so I can make changes, including this README.md file
 
-<img src="https://github.com/Code-for-Miami/tasks/files/192773/SweetwaterTrolleyScreenShot.pdf">
-Bus Tracking GPS
-Included original Ada Fruit GPS program, original GPRS HTTP POST program (from Pachube), and both programs combined and modified which is the one that is actually loaded to the Arduino. Just copy the combined program to the Arduino SDK and uploaded to the Arduino. For GPS model and wiring visit https://learn.adafruit.com/adafruit-ultimate-gps/arduino-wiring. The GPRS Shield is from SeeedStudio.
 
 # How
 
@@ -63,8 +60,11 @@ See the Miami Transit wiki for Installation and assembly instructions.
 # Testing
 
 1) Connect GPS Tracker to USB power supply in the vehicle.
+
 2) Place tracker in a location open to the sky for a good GPS signal.
+
 3) Wait about 5 minutes for the signal to be obtained.
+
 4) Open the Code for Miam LeafletTransit web app to view the location of the GPS Tracker.
 
 # Contribute
